@@ -38,3 +38,5 @@ I'm learning at the moment **Data-Engineer, Angular, HTML, CSS, BootStrap**
 Stats by [tipsy/profile-summary-for-github][]
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=flaviohnm/flaviohnm)
+
+[tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/flaviohnm
