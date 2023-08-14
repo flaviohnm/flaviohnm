@@ -35,4 +35,4 @@ I'm learning at the moment **Data-Engineer, Angular, HTML, CSS, BootStrap**
 ## Public repos
 
 ![stats](./docs/github_stats.png)
-Stats by [tipsy/profile-summary-for-github][https://profile-summary-for-github.com/user/flaviohnm]
+Stats by [profile-summary-for-github](https://profile-summary-for-github.com/user/flaviohnm)
