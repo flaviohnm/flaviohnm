@@ -29,7 +29,6 @@ I'm learning at the moment **Data-Engineer, Angular, HTML, CSS, BootStrap**
 
 ## ⚡ GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviohnm&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flaviohnm&theme=react&utcOffset=8)
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flaviohnm&theme=react)
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flaviohnm&theme=react)
 
