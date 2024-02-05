@@ -30,7 +30,7 @@ I'm learning at the moment **Data-Engineer, Angular, HTML, CSS, BootStrap**
 ## ⚡ GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviohnm&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flaviohnm&theme=react&utcOffset=8)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=flaviohnm&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flaviohnm&theme=react)
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flaviohnm&theme=react)
 
 ## Public repos
