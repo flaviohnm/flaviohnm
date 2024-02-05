@@ -40,4 +40,4 @@ Stats by [profile-summary-for-github](https://profile-summary-for-github.com/use
 
 
 ## Contributions
-![Snake animation](https://github.com/flaviohnm/flaviohnm/blob/output/ocean.gif)
+![Snake animation](https://github.com/flaviohnm/flaviohnm/blob/output/github-snake.svg)
