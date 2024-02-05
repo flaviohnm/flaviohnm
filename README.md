@@ -31,8 +31,13 @@ I'm learning at the moment **Data-Engineer, Angular, HTML, CSS, BootStrap**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=flaviohnm&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohnm&hide=TeX&layout=compact)
+![Snake animation](https://github.com/flaviohnm/flaviohnm/blob/output/github-contribution-grid-snake.svg)
 
 ## Public repos
 
 ![stats](./docs/github_stats.png)
 Stats by [profile-summary-for-github](https://profile-summary-for-github.com/user/flaviohnm)
+
+
+## Contributions
+![Snake animation](https://github.com/flaviohnm/flaviohnm/blob/output/github-contribution-grid-snake.svg)
