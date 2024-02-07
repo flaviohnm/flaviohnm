@@ -1,7 +1,7 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # execute at midnight all days of week
     - cron: "0 0 * * *"
   workflow_dispatch:
 
