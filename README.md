@@ -1,42 +1,50 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=flaviohnm" alt="flaviohnm" /></p>
+<h2>Hi! Welcome Here :dart: :dart:</h2>
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Flávio Monteiro</h1>
-<p align = "justify">Front-end Developer, Coffee lover</p>
+<a target="_blank" href="mailto:flaviohnm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/flaviohnm/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://buymeacoffee.com/flaviohnm" title="buy me a coffee" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" align="right"></a>
 
-I'm learning at the moment **Data-Engineer, Angular, HTML, CSS, BootStrap**
+<a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=flaviohnm&left_text=flaviohnm" alt="flaviohnm"/></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-flaviohnm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviohnm/)](https://www.linkedin.com/in/flaviohnm/)
-[![Instagram Badge](https://img.shields.io/badge/-flaviohnm-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flaviohnm/?hl=pt-br)](https://www.instagram.com/flaviohnm/)
-[![Gmail Badge](https://img.shields.io/badge/-flaviohnm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flaviohnm@gmail.com)](mailto:flaviohnm@gmail.com)
+<br>
 
-## 🚀💻 Technologies & Tools
+```javascript
+name: 'Flávio Monteiro',
+located_in: 'Pernambuco, Brazil',
+job: ['Data Engineer', 'Software Engineer'],
+education: ['Descomplica Faculdade Digital'],
+company: ["Accenture"],
+hobby: ['Coffee']
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+```
 
-## ⚡ GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviohnm&theme=react)
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flaviohnm&theme=react)
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flaviohnm&theme=react)
+<div align="left">
+  <h3>Linguagens</h3>
+  <a href="https://github.com/flaviohnm?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://github.com/flaviohnm?tab=repositories&language=java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java"/></a>
+  <a href="https://github.com/flaviohnm?tab=repositories&language=css"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+  <a href="https://github.com/flaviohnm?tab=repositories&language=html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
+  <a href="https://github.com/flaviohnm?tab=repositories&q=powerbi"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
 
-## Public repos
+  <h3>Ferramentas</h3>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 
-![stats](./docs/github_stats.png)
-Stats by [profile-summary-for-github](https://profile-summary-for-github.com/user/flaviohnm)
+</div>
 
+<hr>
 
-## Contributions
-![Snake animation](https://github.com/flaviohnm/flaviohnm/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img alig src="https://github.com/flaviohnm/flaviohnm/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<hr>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flaviohnm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flaviohnm&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flaviohnm&theme=nord_dark) |
+| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviohnm&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=flaviohnm&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+<hr>
