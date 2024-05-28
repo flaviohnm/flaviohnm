@@ -36,7 +36,7 @@ hobby: ['Coffee']
 <hr>
 
 <p align="center">
-  <img alig src="https://github.com/flaviohnm/flaviohnm/blob/output/github-contribution-grid-snake.svg"/>
+  <img alig src="https://github.com/flaviohnm/flaviohnm/blob/output/github-snake-dark.svg"/>
 </p>
 
 <hr>
