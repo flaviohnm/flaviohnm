@@ -5,7 +5,6 @@
 <a href="https://buymeacoffee.com/flaviohnm" title="buy me a coffee" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" align="right"></a>
 
 <a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=flaviohnm&left_text=flaviohnm" alt="flaviohnm"/></a>
-
 <hr>
 
 ```javascript
