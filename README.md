@@ -6,7 +6,7 @@
 
 <a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=flaviohnm&left_text=flaviohnm" alt="flaviohnm"/></a>
 
-<br>
+<hr>
 
 ```javascript
 name: 'Flávio Monteiro',
