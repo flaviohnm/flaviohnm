@@ -10,8 +10,8 @@
 ```javascript
 name: 'Flávio Monteiro',
 located_in: 'Pernambuco, Brazil',
-job: ['Data Engineer', 'Software Engineer'],
-education: ['Descomplica Faculdade Digital'],
+job: ['Senior Data Engineer', 'Data Scientist'],
+education: ['MSc Candidate'],
 company: ["Accenture"],
 hobby: ['Coffee']
 
