@@ -1,4 +1,4 @@
-name: Generate Snake Animation 
+name: Generate Snake Animation
 
 on:
   schedule: # execute at midnight all days of week
@@ -8,11 +8,9 @@ on:
 
   push:
     branches:
-    - main  
-
+      - main
 
 jobs:
-
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
