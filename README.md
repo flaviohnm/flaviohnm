@@ -1,55 +1,64 @@
-<h2>Hi! Welcome Here :dart: :dart:</h2>
-
-<a target="_blank" href="mailto:flaviohnm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a target="_blank" href="https://www.linkedin.com/in/flaviohnm/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://buymeacoffee.com/flaviohnm" title="buy me a coffee" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" align="right"></a>
-
-<a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=flaviohnm&left_text=flaviohnm" alt="flaviohnm"/></a>
-
-<hr>
-
-```javascript
-name: 'Flávio Monteiro',
-located_in: 'Pernambuco, Brazil',
-job: ['Senior Data Engineer', 'Data Scientist'],
-education: ['MSc Candidate'],
-company: ["Accenture"],
-hobby: ['Coffee']
-
-```
+<h2>Hi! I'm Flávio Monteiro 👋</h2>
 
 <div align="left">
-  <h3>Linguagens</h3>
-  <a href="https://github.com/flaviohnm?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="https://github.com/flaviohnm?tab=repositories&language=java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java"/></a>
-  <a href="https://github.com/flaviohnm?tab=repositories&language=css"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
-  <a href="https://github.com/flaviohnm?tab=repositories&language=html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
-  <a href="https://github.com/flaviohnm?tab=repositories&q=powerbi"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
-
-  <h3>Ferramentas</h3>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="DynamoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
- 
-
-
+  <a target="_blank" href="mailto:flaviohnm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/flaviohnm/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://buymeacoffee.com/flaviohnm" title="buy me a coffee" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" align="right"></a>
 </div>
 
-<hr>
+<br />
+
+> **Senior Data Engineer | Data Scientist | MSc Candidate @ UPE**
+
+Eu sou um Engenheiro de Dados Sênior focado em construir soluções escaláveis e modelos de alta performance. Atualmente, concilio minha atuação profissional com a pesquisa acadêmica em **Forecasting de Séries Temporais** utilizando abordagens híbridas (ARIMA, N-BEATS, Deep Learning).
+
+---
+
+### 🎓 Academic & Professional Background
+
+- 🏢 **Senior Data Engineer** na Accenture.
+- 🎓 **Mestrando em Engenharia de Computação** no PPGEC - Universidade de Pernambuco (UPE).
+- 🔬 Pesquisador focado em **Time Series Forecasting** e modelos híbridos.
+- 💻 Usuário entusiasta de **Fedora Linux** e **VS Code** para desenvolvimento robusto.
+
+---
+
+### 🛠️ Tech Stack
+
+| Categoria        | Tecnologias                                                                                                              |
+|------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Database         | [![My Skills]( https://skillicons.dev/icons?i=mysql,dynamodb,mongodb,postgres,redis,sqlite)]( https://skillicons.dev ) |
+| Language         | [![My Skills]( https://skillicons.dev/icons?i=java,py,javascript,html,md)]( https://skillicons.dev )                   |
+| Infra            | [![My Skills]( https://skillicons.dev/icons?i=docker,terraform)]( https://skillicons.dev )                             |
+| Machine Learning | [![My Skills]( https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch)]( https://skillicons.dev )                   |
+| Frameworks       | [![My Skills]( https://skillicons.dev/icons?i=spring,maven,hibernate,kafka,gherkin)]( https://skillicons.dev )                 |
+| IDE's            | [![My Skills]( https://skillicons.dev/icons?i=idea,eclipse,pycharm,postman,github,git,flask,fastapi)]( https://skillicons.dev )                        |
+| Operation System | [![My Skills]( https://skillicons.dev/icons?i=linux,windows)]( https://skillicons.dev )                                |
+| Cloud | [![My Skills]( https://skillicons.dev/icons?i=aws,azure)]( https://skillicons.dev )                                |
+
+#### **Data Science & ML**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+</div>
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img alig src="https://github.com/flaviohnm/flaviohnm/blob/output/github-snake-dark.svg"/>
+  <img src="https://github.com/flaviohnm/flaviohnm/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
-<hr>
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flaviohnm&theme=nord_dark" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flaviohnm&theme=nord_dark" /> |
+| :---: | :---: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flaviohnm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flaviohnm&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flaviohnm&theme=nord_dark) |
-| :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+---
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviohnm&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=flaviohnm&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-<hr>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=flaviohnm&left_text=Visitors" alt="Visitors"/>
+</p>
