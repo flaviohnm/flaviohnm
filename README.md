@@ -1,17 +1,18 @@
 <h2>Hi! I'm Flávio Monteiro 👋</h2>
 
-<div align="left">
-  <a target="_blank" href="mailto:flaviohnm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a target="_blank" href="https://www.linkedin.com/in/flaviohnm/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://buymeacoffee.com/flaviohnm" title="buy me a coffee" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" align="right"></a>
+<div align="right">
+  <a href="https://buymeacoffee.com/flaviohnm" title="buy me a coffee" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </div>
-
 <br />
 
 > **Senior Data Engineer | Data Scientist | MSc Candidate @ UPE**
 
 Eu sou um Engenheiro de Dados Sênior focado em construir soluções escaláveis e modelos de alta performance. Atualmente, concilio minha atuação profissional com a pesquisa acadêmica em **Forecasting de Séries Temporais** utilizando abordagens híbridas (ARIMA, N-BEATS, Deep Learning).
 
+<div align="center">
+  <a target="_blank" href="mailto:flaviohnm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/flaviohnm/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
 ---
 
 ### 🎓 Academic & Professional Background
