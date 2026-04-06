@@ -27,12 +27,12 @@ Eu sou um Engenheiro de Dados Sênior focado em construir soluções escaláveis
 
 | Categoria        | Tecnologias                                                                                                              |
 |------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Database         | [![My Skills]( https://skillicons.dev/icons?i=mysql,dynamodb,mongodb,postgres,redis,sqlite)]( https://skillicons.dev ) |
-| Language         | [![My Skills]( https://skillicons.dev/icons?i=java,py,javascript,html,md)]( https://skillicons.dev )                   |
+| Database         | [![My Skills]( https://skillicons.dev/icons?i=mysql,dynamodb,mongodb,postgres,redis,sqlite,firebase,elasticsearch)]( https://skillicons.dev ) |
+| Language         | [![My Skills]( https://skillicons.dev/icons?i=java,py,javascript,html,md,latex)]( https://skillicons.dev )                   |
 | Infra            | [![My Skills]( https://skillicons.dev/icons?i=docker,terraform)]( https://skillicons.dev )                             |
 | Machine Learning | [![My Skills]( https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch)]( https://skillicons.dev )                   |
-| Frameworks       | [![My Skills]( https://skillicons.dev/icons?i=spring,maven,hibernate,kafka,gherkin)]( https://skillicons.dev )                 |
-| IDE's            | [![My Skills]( https://skillicons.dev/icons?i=idea,eclipse,pycharm,postman,github,git,flask,fastapi)]( https://skillicons.dev )                        |
+| Frameworks       | [![My Skills]( https://skillicons.dev/icons?i=spring,maven,hibernate,kafka,gherkin,flask,fastapi)]( https://skillicons.dev )                 |
+| IDE's            | [![My Skills]( https://skillicons.dev/icons?i=eclipse,idea,pycharm,postman,github,git,vscode)]( https://skillicons.dev )                        |
 | Operation System | [![My Skills]( https://skillicons.dev/icons?i=linux,windows)]( https://skillicons.dev )                                |
 | Cloud | [![My Skills]( https://skillicons.dev/icons?i=aws,azure)]( https://skillicons.dev )                                |
 
