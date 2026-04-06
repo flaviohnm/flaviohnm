@@ -3,7 +3,10 @@
 <div align="right">
   <a href="https://buymeacoffee.com/flaviohnm" title="buy me a coffee" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </div>
+
 <br />
+
+---
 
 > **Senior Data Engineer | Data Scientist | MSc Candidate @ UPE**
 
@@ -13,6 +16,7 @@ Eu sou um Engenheiro de Dados Sênior focado em construir soluções escaláveis
   <a target="_blank" href="mailto:flaviohnm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a target="_blank" href="https://www.linkedin.com/in/flaviohnm/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
+
 ---
 
 ### 🎓 Academic & Professional Background
@@ -26,16 +30,15 @@ Eu sou um Engenheiro de Dados Sênior focado em construir soluções escaláveis
 
 ### 🛠️ Tech Stack
 
-| Categoria        | Tecnologias                                                                                                              |
-|------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Database         | [![My Skills]( https://skillicons.dev/icons?i=mysql,dynamodb,mongodb,postgres,redis,sqlite,firebase,elasticsearch)]( https://skillicons.dev ) |
-| Language         | [![My Skills]( https://skillicons.dev/icons?i=java,py,javascript,html,md,latex)]( https://skillicons.dev )                   |
-| Infra            | [![My Skills]( https://skillicons.dev/icons?i=docker,terraform)]( https://skillicons.dev )                             |
-| Machine Learning | [![My Skills]( https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch)]( https://skillicons.dev )                   |
-| Frameworks       | [![My Skills]( https://skillicons.dev/icons?i=spring,maven,hibernate,kafka,gherkin,flask,fastapi)]( https://skillicons.dev )                 |
-| IDE's            | [![My Skills]( https://skillicons.dev/icons?i=eclipse,idea,pycharm,postman,github,git,vscode)]( https://skillicons.dev )                        |
-| Operation System | [![My Skills]( https://skillicons.dev/icons?i=linux,windows)]( https://skillicons.dev )                                |
-| Cloud | [![My Skills]( https://skillicons.dev/icons?i=aws,azure)]( https://skillicons.dev )                                |
+| Categoria        | Tecnologias |
+|------------------|-------------|
+| **Database** | [![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb,mongodb,postgres,redis,sqlite,firebase,elasticsearch)](https://skillicons.dev) |
+| **Language** | [![My Skills](https://skillicons.dev/icons?i=java,py,javascript,html,md,latex)](https://skillicons.dev) |
+| **Infra** | [![My Skills](https://skillicons.dev/icons?i=docker,terraform,kafka)](https://skillicons.dev) |
+| **Machine Learning** | [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch)](https://skillicons.dev) |
+| **Frameworks** | [![My Skills](https://skillicons.dev/icons?i=spring,maven,hibernate,flask,fastapi)](https://skillicons.dev) |
+| **Tools & IDEs** | [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,pycharm,idea,postman,eclipse)](https://skillicons.dev) |
+| **OS & Cloud** | [![My Skills](https://skillicons.dev/icons?i=fedora,linux,windows,aws,azure)](https://skillicons.dev) |
 
 ---
 
